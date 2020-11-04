@@ -1,6 +1,10 @@
-# Queerception
+---
+description: >-
+  Queerception is a portmanteau for queer conception. Touches on various topics
+  related to conceiving a child as a queer couple.
+---
 
-Queerception is a portmanteau for queer conception. Touches on various topics related to conceiving a child as a queer couple.
+# Queerception
 
 ### Conception options
 

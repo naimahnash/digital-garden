@@ -1,4 +1,3 @@
-# My Digital Garden
+# Introduction
 
 Starting a digital garden.
-
