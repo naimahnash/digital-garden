@@ -39,6 +39,8 @@ export class LinkedList {
 }
 ```
 
+## Doubly linked list
+
 ```javascript
 class DLLNode extends LLNode {
   constructor(value) {

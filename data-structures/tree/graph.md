@@ -59,14 +59,7 @@ class Graph {
    * @param {value} value to search for
    */
   depthFirstSearch(root, value) {
-    if (root == null) return;
-    if (node.value === value) return node;
-    root.visited = true;
-    for (let n of root.adjacent) {
-      if (n.visited == false) {
-        this.depthFirstSearch(n, value);
-      }
-    }
+    // see below for implementation
   }
 
   /**
@@ -74,18 +67,7 @@ class Graph {
    * @param {value} value to search for
    */
   breadthFirstSearch(value) {
-    let queue = [this.root];
-    queue[0]["visited"] = true;
-    while (queue.length) {
-      for (let i = 0; i < queue.length; i++) {
-        let node = queue.shift();
-        if (node.value === value) return node;
-        if (node.adjacent && node.adjacent.length) {
-          for (let i = 0; i < adjacent.length; i++) queue.push(adjacent);
-        }
-      }
-    }
-    return null;
+    // see below for implementation
   }
 }
 ```
@@ -112,6 +94,26 @@ In DFS, we visit a node _x_ and then iterate through each of _x_'s neighbors. Wh
 
 - Note that pre-order and other forms of tree traversal are a form of DFS. The key difference is that when implementing this algorithm for a graph, we must check if the node has been visited. If we don't, we risk getting stuck in an infinite loop.
 
+```javascript
+
+  /**
+   *
+   * @param {Node} root
+   * @param {value} value to search for
+   */
+  depthFirstSearch(root, value) {
+    // see below for implementation
+    if (root == null) return;
+    if (node.value === value) return node;
+    root.visited = true;
+    for (let n of root.adjacent) {
+      if (n.visited == false) {
+        this.depthFirstSearch(n, value);
+      }
+    }
+  }
+```
+
 ### Breadth-first search
 
 In breadth-first search (BFS) we start at the root (or another arbitrarily selected node) and explore each neighbor before going on to any of their children.
@@ -121,3 +123,25 @@ That is, we go wide (hence breadth-first search) before we go deep.
 BFS is a bit less intuitive, and many interviewees struggle with the implementation unless they are already familiar with it. The main tripping point is the (false) assumption that BFS is recursive. **It's not. Instead, it uses a queue.**
 
 In BFS, node a visits each of a's neighbors before visiting any of their neighbors. You can think of this as searching level by level out from a. An iterative solution involving a queue usually works best.
+
+```javascript
+
+  /**
+   *
+   * @param {value} value to search for
+   */
+  breadthFirstSearch(value) {
+    let queue = [this.root];
+    queue[0]["visited"] = true;
+    while (queue.length) {
+      for (let i = 0; i < queue.length; i++) {
+        let node = queue.shift();
+        if (node.value === value) return node;
+        if (node.adjacent && node.adjacent.length) {
+          for (let i = 0; i < adjacent.length; i++) queue.push(adjacent);
+        }
+      }
+    }
+    return null;
+  }
+```
