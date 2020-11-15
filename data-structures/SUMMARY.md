@@ -1,8 +1,0 @@
-# Table of contents
-
-- [Tree](tree/main.md)
-  - [Binary Tree](tree/binary-tree.md)
-  - [Graph](tree/graph.md)
-  - [Heap](tree/heap.md)
-  - [Trie](tree/trie.md)
-- [Linked List](linked-list.md)

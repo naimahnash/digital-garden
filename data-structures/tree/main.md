@@ -1,3 +1,8 @@
+---
+description: >-
+A tree is a data structure composed of nodes.
+---
+
 # Tree
 
 A tree is a data structure composed of nodes.

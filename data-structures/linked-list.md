@@ -1,3 +1,9 @@
+---
+description: >-
+A linked list is a one way data structure of linked nodes. If it is two-way it is called a doubly linked list.
+
+---
+
 # Linked List
 
 ```javascript

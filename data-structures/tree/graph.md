@@ -1,3 +1,8 @@
+---
+description: >-
+A graph is simply a collection of nodes with edges between (some of) them.
+---
+
 # Graph
 
 A [tree](tree.md) is actually a type of graph, but not all graphs are trees. Simply put, a tree is a connected graph without cycles

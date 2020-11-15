@@ -1,3 +1,8 @@
+---
+description: >-
+  Binary Search is an O(log n) algorithm used on arrays. The concept is to split the array in half until you find the value you searched for, or don't find if its not in the array.
+---
+
 # Binary Search
 
 ```typescript

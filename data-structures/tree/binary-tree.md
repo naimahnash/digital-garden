@@ -1,7 +1,9 @@
-# Binary Tree
+---
+description: >-
+A binary tree is a tree in which each node has up to two children. A node is called a "leaf" node if it has no children.
+---
 
-A binary tree is a tree in which each node has up to two children.
-A node is called a "leaf" node if it has no children.
+# Binary Tree
 
 ```javascript
 class BinaryNode extends Node {

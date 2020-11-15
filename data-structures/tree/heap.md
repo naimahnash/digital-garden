@@ -1,3 +1,8 @@
+---
+description: >-
+A heap is a kind of tree where the values are ordered in ascending or descending order.
+---
+
 # Heap
 
 ## Min-Heap
