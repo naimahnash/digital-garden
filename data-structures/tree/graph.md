@@ -1,6 +1,6 @@
 ---
 description: >-
-A graph is simply a collection of nodes with edges between (some of) them.
+  A graph is simply a collection of nodes with edges between (some of) them.
 ---
 
 # Graph
