@@ -1,0 +1,1 @@
+- [Binary Search](binary-search.md)

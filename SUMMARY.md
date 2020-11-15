@@ -13,5 +13,5 @@
 
 - [Algorithms](algorithms/main.md)
   - [Binary Search](algorithms/binary-search.md)
-- [Finance](finance/main.md)
+  <!-- - [Finance](finance/main.md) -->
 - [Queerception](queerception/main.md)
