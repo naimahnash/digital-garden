@@ -16,3 +16,4 @@
   <!-- - [Finance](finance/main.md) -->
 - [Queerception](queerception/main.md)
 - [Woodworking](woodworking/main.md)
+- [Sailing](sailing/main.md)
