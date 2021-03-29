@@ -47,6 +47,8 @@ Glendale, CA 91204](https://goo.gl/maps/a8VdMHoBvVkrpNpCA)
 | Intermediate         |
 | Wooden bowls         | $150  |
 
+---
+
 ### [LA Woodshop](https://lawoodshop.com/)
 
 [1535 Paloma St., Los Angeles, CA 90021](https://goo.gl/maps/napZqnNxpuxZh5dc9)
@@ -66,6 +68,8 @@ Glendale, CA 91204](https://goo.gl/maps/a8VdMHoBvVkrpNpCA)
 | Furniture Making Intro: Tables |         $800         |
 | Advanced                       |
 | Advanced Furniture Making      | Monthly subscription |
+
+---
 
 ### [Allied Woodshop](https://alliedwoodshop.com/)
 
