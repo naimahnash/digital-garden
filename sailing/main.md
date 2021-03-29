@@ -20,17 +20,17 @@ description: >-
 | Basic Keelboat Level 3 (KB3)            | $275  | KB2 or equivalent skills |
 | US Sailing Basic Keelboat Certification | $200  | KB3 or equivalent skills |
 
-| Course                            | Price | Includes                                |
-| :-------------------------------- | :---: | :-------------------------------------- |
-| Keelboat Certification Package #1 | $900  |
-|                                   |       | Basic Keelboat Level 1 (KB1)            |
-|                                   |       | Basic Keelboat Level 2 (KB2)            |
-|                                   |       | Basic Keelboat Level 3 (KB3)            |
-|                                   |       | US Sailing Basic Keelboat Certification |
-| Keelboat Certification Package #2 | $650  |
-|                                   |       | Basic Keelboat Level 2 (KB2)            |
-|                                   |       | Basic Keelboat Level 3 (KB3)            |
-|                                   |       | US Sailing Basic Keelboat Certification |
+| Course                            | Includes                                | Price |
+| :-------------------------------- | :-------------------------------------- | :---: |
+| Keelboat Certification Package #1 |                                         | $900  |
+|                                   | Basic Keelboat Level 1 (KB1)            |       |
+|                                   | Basic Keelboat Level 2 (KB2)            |       |
+|                                   | Basic Keelboat Level 3 (KB3)            |       |
+|                                   | US Sailing Basic Keelboat Certification |       |
+| Keelboat Certification Package #2 |                                         | $650  |
+|                                   | Basic Keelboat Level 2 (KB2)            |       |
+|                                   | Basic Keelboat Level 3 (KB3)            |       |
+|                                   | US Sailing Basic Keelboat Certification |       |
 
 #### Charter
 
